@@ -1,3 +1,5 @@
+package edu.ptbrxyz.primeirasemana;
+
 public class BoletimEstudantil {
 
 	public static void main(String[] args) {
